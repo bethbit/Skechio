@@ -1,5 +1,5 @@
 {
-  "name": "Sketch Reveal",
+  "name": "Sketchio",
   "description": "A calm, encouraging cognitive stimulation line drawing game designed for dementia care, memory wellness, and senior activities.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

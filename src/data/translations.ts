@@ -90,7 +90,7 @@ export interface TranslationDictionary {
 
 export const translations: Record<Language, TranslationDictionary> = {
   en: {
-    appTitle: "Sketch Reveal",
+    appTitle: "Sketchio",
     appSubtitle: "Cognitive Stimulation & Gentle Memory Game",
     tagline: "A calm, encouraging space for older adults and caregivers to explore drawings, evoke warm memories, and spark peaceful conversation.",
 
@@ -150,7 +150,7 @@ export const translations: Record<Language, TranslationDictionary> = {
     printNotes: "Print / Export Memories",
 
     howToPlay: "How to Play",
-    howToPlayTitle: "How to Play Sketch Reveal",
+    howToPlayTitle: "How to Play Sketchio",
     howToPlaySubtitle: "A calm, pressure-free game designed for joy, cognitive wellness, and warm connection.",
     howToPlayStep1Title: "1. Observe the Partial Sketch",
     howToPlayStep1Desc: "Each round begins with a gentle line drawing. Look closely at the shapes as they emerge.",
@@ -185,7 +185,7 @@ export const translations: Record<Language, TranslationDictionary> = {
   },
 
   si: {
-    appTitle: "ස්කෙච් රිවීල් (චිත්‍ර අනුමානය)",
+    appTitle: "Sketchio",
     appSubtitle: "මනස පුබුදුවන සන්සුන් මතක ක්‍රීඩාව",
     tagline: "වැඩිහිටියන්ට සහ සාත්තු සපයන්නන්ට චිත්‍ර නැරඹීමට, සුන්දර මතකයන් ආවර්ජනය කිරීමට සහ සන්සුන්ව සංවාදයේ යෙදීමට සුදුසු අවකාශයකි.",
 
